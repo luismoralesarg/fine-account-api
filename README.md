@@ -1,6 +1,3 @@
-# fine-account-api
-
-
 # Fine Account API
 
 
@@ -95,7 +92,7 @@ Validation error example:
 #### Requirements
 
 - npm
-- node >= 14
+- node >= 16.13.0
 
 ```
 npm install
